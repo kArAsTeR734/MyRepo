@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041B\u0430\u0431\u044B\\\u041B\u0430\u0431\u044B 4 \u0441\u0435\u043C\u0430\u043A\\\u0410\u043B\u0433\u043E\u0441\u044B\\6 STL_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C425-8059-4DB4-A08E-634A25E2FF2B}|6 STL_Library.vcxproj|C:\\Users\\User\\Desktop\\\u041B\u0430\u0431\u044B\\\u041B\u0430\u0431\u044B 4 \u0441\u0435\u043C\u0430\u043A\\\u0410\u043B\u0433\u043E\u0441\u044B\\6 STL_Library\\6 STL_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3473C425-8059-4DB4-A08E-634A25E2FF2B}|6 STL_Library.vcxproj|solutionrelative:6 STL_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6 STL_Library.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041B\u0430\u0431\u044B\\\u041B\u0430\u0431\u044B 4 \u0441\u0435\u043C\u0430\u043A\\\u0410\u043B\u0433\u043E\u0441\u044B\\6 STL_Library\\6 STL_Library.cpp",
+              "RelativeDocumentMoniker": "6 STL_Library.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041B\u0430\u0431\u044B\\\u041B\u0430\u0431\u044B 4 \u0441\u0435\u043C\u0430\u043A\\\u0410\u043B\u0433\u043E\u0441\u044B\\6 STL_Library\\6 STL_Library.cpp",
+              "RelativeToolTip": "6 STL_Library.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T09:48:52.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
